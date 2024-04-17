@@ -1,2 +1,2 @@
 # exemplo-github
-Alteração pela branch 1
+Alteração pela branch de bugfix
